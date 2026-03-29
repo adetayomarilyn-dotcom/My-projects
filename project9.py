@@ -1,4 +1,4 @@
-num = float(input("Give me a decimal number"))
+num = float(input("Enter a decimal number"))
 binary = ""
 
 while num > 0:

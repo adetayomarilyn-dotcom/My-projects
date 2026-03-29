@@ -1,7 +1,7 @@
 import turtle
 turtle.Screen()
 turtle.bgcolor("red")
-turtle.setup(800,600)
+turtle.setup(800,500)
 tim = turtle.Turtle()
 
 tim.forward(100)

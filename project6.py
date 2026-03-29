@@ -1,4 +1,4 @@
-rows = (int(input("Give me a number")))
+rows = (int(input("Enter a number")))
 for i in range(1, rows+1):
     spaces = " " * (rows-i)
     stars = "*" * i
